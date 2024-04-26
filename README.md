@@ -1,5 +1,5 @@
 ### Sobre
-Jeú trabalha com desenvolvimento de softwares há mais de 23 anos, aprendendo constantemente, compartilhando conhecimentos e aplicando na prática os conhecimentos adquiridos através de uma boa escrita de código.
+Com mais de duas décadas de experiência no desenvolvimento de software e atuando profissionalmente desde 1999, estou continuamente buscando aprimoramento, tanto por meio da aprendizagem contínua quanto do compartilhamento ativo de conhecimento. Acredito na importância de aplicar na prática os conceitos adquiridos, refletindo isso em habilidade de escrever código de forma eficiente e legível.
 
 ### Stacks
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
